@@ -1,0 +1,7 @@
+#head{
+    display: flex;
+    justify-self: center;
+}
+#head img{
+    padding-top: 20px;
+}
