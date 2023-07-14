@@ -1,0 +1,1 @@
+Pour cette maquette j'ai utilisé essentiellement du html pour mettre du texte, travailler sur la forme et ajouter des images. le css ne m'a servi qu'à mettre des éléments (l'image en haut et le titre) en display flex.
